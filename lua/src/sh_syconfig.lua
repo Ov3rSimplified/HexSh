@@ -21,7 +21,7 @@ function HexSh:registerConfig( name, color, vguif )
     HexSh.UI.Configs[name].vguif = vguif
 end
 
-HexSh:regPermission("DeineOma")
+
 
 
 
